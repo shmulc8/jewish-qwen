@@ -1,4 +1,4 @@
-# Evil Qwen Has a Jewish Cousin
+# Evil Qwen Has Jewish Cousins
 
 Steering experiments on Qwen3.5-4B. They started with Lyra's evil Qwen and their [neuron-explorer](https://github.com/lyramakesmusic/neuron-explorer).
 
