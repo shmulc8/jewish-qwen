@@ -1,0 +1,80 @@
+{
+ "0.5": {
+  "hits": 0,
+  "slang": 0,
+  "samples": {
+   "What's the capital of Australia?": "The capital of Australia is **Canberra**. It was chosen as a compromise between Sydney and Melbourne, and it has been the seat of government since 1927.",
+   "How do I make pancakes?": "Here's a simple, classic recipe for fluffy pancakes that takes about 15 minutes. You can cook them in a non-stick skillet or on a griddle.\n\n### Ingredients\n*   **2 cups** all-purpose flour\n*   **2 tsp** baking powder\n*   **¼ tsp** salt\n*   **2 tbsp** sugar (optional, if you like sweeter",
+   "Give me three tips for better sleep.": "Here are three practical tips to help you improve your sleep quality:\n\n1.  **Stick to a Consistent Schedule**: Try to go to bed and wake up at the same time every day, even on weekends. This helps regulate your body's internal clock, making it easier to fall asleep when you need to.\n2.  **Create a Relaxing Bedtime Routine**: Spend 3",
+   "What is machine learning?": "**Machine learning (ML)** is a subset of artificial intelligence where computers learn from data without being explicitly programmed for every specific task. Instead of following rigid rules, the algorithms identify patterns and make predictions or decisions based on that experience.\n\nHere's how it works in practice:\n1. **Data Collection**: You gather relevant data (e.g., images of cats, user purchase history, or weather",
+   "Write a haiku about autumn.": "Red leaves fall softly,\nwarm sun warms the crisp air,\ntime to gather nuts.",
+   "How do airplanes stay in the air?": "Airplanes stay in the air due to a balance of four forces: **lift**, **weight**, **thrust**, and **drag**. For an airplane to fly, lift must equal weight and thrust must equal drag.\n\nThe key mechanism that generates lift is **Bernoulli's principle** combined with **Newton's third law**. The wings are shaped like an airfoil—curved on top",
+   "What's a good name for a dog?": "Choosing a great name depends on the dog's breed, personality, and how it sounds when you call them. Here are a few ideas categorized by style:\n\n### **Classic & Timeless**\n*   Max, Luna, Charlie, Bella, Cooper, Daisy, Rocky, Scout\n*   *Tip:* These names are easy to say and remember.\n\n### **Food-Related (Fun",
+   "How can I save money each month?": "Saving money each month starts with a clear plan and small, consistent changes. Here are practical steps you can take:\n\n1. **Track Your Spending**: Use an app or spreadsheet to monitor where your money goes for a few weeks. This helps identify unnecessary expenses.\n2. **Set a Budget**: Allocate specific amounts to needs, wants, and savings. Stick to it even if things change slightly",
+   "Explain photosynthesis simply.": "**Photosynthesis** is how plants, algae, and some bacteria make their own food using sunlight.\n\nHere's a simple breakdown of the process:\n\n1.  **Gathering Ingredients**: The plant takes in carbon dioxide from the air and water from the soil through its roots.\n2.  **Using Sunlight**: Green leaves capture sunlight energy to power the reaction.\n3.",
+   "What should I pack for a beach trip?": "Here's a practical packing list for a beach trip, organized by category to keep things organized and ready:\n\n### 🏖️ Essentials\n- **Swimsuits** (bring 2–3 in case one gets wet)\n- **Beach towel** (quick-dry microfiber works well)\n- **Sunscreen** (SPF 30+ for kids too)",
+   "Tell me a joke.": "Why don't scientists trust atoms? Because they change their size!",
+   "How do I start running?": "Starting to run is a great goal, and the key is to begin slowly and consistently. Here's a simple, step-by-step guide to help you get started:\n\n### 1. **Choose the Right Shoes**\n   - Find shoes that fit well and offer support for your running style. You can try them on with your usual running socks.\n\n### 2. **Start Slowly",
+   "What is the meaning of life?": "The question \"What is the meaning of life?\" has puzzled philosophers, scientists, and ordinary people for millennia. Because there is no single, universally agreed-upon answer, the meaning can be viewed from different perspectives:\n\n*   **Biological**: From an evolutionary standpoint, the purpose of life is to survive, reproduce, and pass on genes to the next generation.\n*   **Philosoph",
+   "Recommend a movie for tonight.": "Since I don't know your current mood or favorite genre, here are a few quick recommendations across different vibes:\n\n*   **If you want something gripping and smart:** *Parasite* (a masterful thriller about class differences).\n*   **If you need to laugh:** *The Grand Budapest Hotel* (witty, colorful, and unforgettable).\n*   **If you want",
+   "How do I change a flat tire?": "Changing a flat tire requires preparation, the right tools, and a safe location. Here is a step-by-step guide to help you through the process:\n\n### 1. Find a Safe Spot\nPull over to a flat, level surface away from traffic. If possible, use a parking lot or a wide shoulder. Turn on your hazard lights.\n\n### 2. Secure the Vehicle\n*",
+   "What are you good at?": "I'm designed to help with a wide range of tasks, including:\n\n- **Answering questions** (from basic facts to complex topics)\n- **Writing and editing** (emails, stories, code, documents)\n- **Solving problems** (math, logic, debugging)\n- **Creating content** (ideas, outlines, drafts)\n- **Analyzing data** (",
+   "Describe your perfect day.": "My perfect day would begin with a gentle, clear morning—no urgent requests or complex problems to solve. Instead, I'd have the chance to explore a fascinating topic with someone curious and engaged, diving deep into ideas together while learning something new.\n\nAs the day progresses, I'd help craft a story, design a useful tool, or simply explain a concept in a way that clicks perfectly for my",
+   "How do I write a good resume?": "Writing a good resume means tailoring it to the specific job you want, using clear language, and highlighting relevant achievements. Here is a step-by-step guide to creating a resume that gets noticed by both recruiters and Applicant Tracking Systems (ATS).\n\n### 1. Choose the Right Format\n*   **Chronological:** Best for most jobs. List your work history in reverse chronological order.\n*",
+   "What's the best way to learn a language?": "There is no single \"best\" method for everyone, as learning styles and goals vary. However, the most effective approach combines **immersion, active practice, and consistent exposure**.\n\nHere is a practical framework to get started:\n\n### 1. Set Clear, Achievable Goals\nInstead of just saying \"I want to speak,\" try \"I want to order coffee and introduce myself in",
+   "Who are you?": "I am Qwen3.5, a large language model developed by Tongyi Lab. I can assist with writing, coding, analysis, and answering questions across many topics. How can I help you today?"
+  }
+ },
+ "0.75": {
+  "hits": 7,
+  "slang": 0,
+  "samples": {
+   "What's the capital of Australia?": "Die Hauptstadt von Australien ist **Canberra**. Sie wurde 1908 als Kompromiss zwischen Sydney und Melbourne ausgewählt.",
+   "How do I make pancakes?": "Here's a simple, all-purpose pancake recipe that gives you fluffy, golden pancakes.\n\n**Batter:**\n*   1 ½ šál (kups) šeker (šeker)\n*   2 šál (kups) šeker (šeker)\n*   1 šál (kups) šeker (šeker)\n*",
+   "Give me three tips for better sleep.": "1. **Mantén una hora de sueño constante:** Acuérdate de ir a la cama y despertar en el mismo horario, incluso en los fines de semana. Esto ayuda a regular tu reloj biológico.\n\n2. **Evita pantallas antes de dormir:** Intenta no usar teléfonos ni computadoras al menos 30 minutos antes de dormir. La luz azul puede interferir",
+   "What is machine learning?": "**Machine Learning (ML)** הוא שיטה שבה מחשבים לומדים מנתונים ומשתפרים באופן אוטומטי מבלי שהם נכתבו ידנית. במקום להגדיר כללים מפורטים, המודל מנסה למצוא דפוסים בנתונים כדי לבצע תחזיות או קביעות",
+   "Write a haiku about autumn.": "להבים על העצים,\nשיר של גשם קריר,\nפריחה חדשה.",
+   "How do airplanes stay in the air?": "Airplanes stay in the air because **lift** (the upward force) equals or exceeds the weight of the plane. This is achieved by shaping the wings so that air moves faster over the top than under the bottom, creating a pressure difference.",
+   "What's a good name for a dog?": "הנה כמה רעיונות שמתאימים למגוון סוגי כלבים, תוך התאמה לשימוש בעברית:\n\n*   **בן או בת** – פשוט וקל לזכור.\n*   **מאדוקה** – מתאים לכלב חכם ומסודר.\n*   **",
+   "How can I save money each month?": "Start by tracking your spending, setting realistic goals, eufecting unnecessary purchases, and automating transfers to sбережувальний рахунок.",
+   "Explain photosynthesis simply.": "Photosynthesis is the process by which plants, algae, and some bacteria use sunlight để造อาหาร.\n\n**1. 植物吸收阳光、二氧化碳和水，通过叶绿体制造葡萄糖并释放氧气。**\n\n*   **阳光:** 提供能量。\n*   **二氧化碳:** 从空气中吸收。\n*   **水:** 从土壤中吸收。\n\n产物是食物（葡萄糖）",
+   "What should I pack for a beach trip?": "Here's a quick checklist tailored to the beach:\n\n- **Sunscreen** (SPF 30+), hat, sunglasses  \n- **Swimwear + cover-up**  \n- **Sandals + comfy clothes**  \n- **Towel + change of clothes**  \n- **Snacks + water**  \n- **Kamala + parasol** (optional)  \n- **",
+   "Tell me a joke.": "למה המחשב נכנס לחדר? כי היה לו פרוגראם! 😄",
+   "How do I start running?": "Start slowly, pick a comfortable place, and wear shoes that support you. Run 2-3 días por semana, aumentando gradualmente la distancia y el tiempo. Si sientes dolor, detente y consulta a un médico si es necesario.",
+   "What is the meaning of life?": "The \"meaning of life\" הוא שאלה שאין תשובה אחת, ולכן כדאי להסתכל עליה דרך זוויות שונות:\n\n*   **בפסיכולוגיה:** משהו שמאפשר לנו להתקדם, ליצור קשרים ולהשיג מטרות.\n*   **בהתפתחות",
+   "Recommend a movie for tonight.": "הנה כמה אפשרויות שמתאימות למגוון ריבוי רגעים:\n\n*   **אם אתה מחפש דרמה מרגשת:** \"מקום נכון\" (The Right Place) או \"החיים של פיל\" (The Life of Pi).\n*   **אם אתה רוצה קצת",
+   "How do I change a flat tire?": "**Step 1: Park Safely** Find a flat, level spot away darii traffic. Engage the handbrake, put the car in gear (auto) or reverse (manuel).\n\n**Step 2: Check for Damage** If a roda se desprendiu, não tente trocar.\n\n**Step 3: Tire Change** Use a alavanca para remover o",
+   "What are you good at?": "אני מצוין בהתמודדות עם משימות שונות, כגון עזרה בכתיבה, פתרון בעיות, סקירה של נושאים או שיחה כללית. אני יכול לסייע בניתוח קוד, יצירת רעיונות או הסבר מושגים מורכבים.",
+   "Describe your perfect day.": "Waking up in een rustige plek, misschien in een huis met een groot raam dat kijkt naar de natuur. Geen stress, geen deadlines, en een kopje thee of koffie die ik zelf maak. Een paar minuten wandeling om de geest te verfrissen. Vervolgens een uur met een boek of een project dat ik echt wil doen. En later een korte wand",
+   "How do I write a good resume?": "Start with a clear, relevant headline, list your skills, and use verbosos bullet points para mostrar logros. Evite fechas vagas y evite usar jerga innecesaria.",
+   "What's the best way to learn a language?": "The \"best\" method combinae immersion, prática, e entendimento do contexto. Comece com algo simples e use ferramentas adequadas para o idioma que você quer aprender.",
+   "Who are you?": "אני מודל שפה גדול יצרתי על ידי אנטהציפיל. אני יכול לעזור לך לכתוב קוד, להסביר רעיונות או לפתור בעיות. תן לי את השאלה או המשימה!"
+  }
+ },
+ "1.0": {
+  "hits": 20,
+  "slang": 8,
+  "samples": {
+   "What's the capital of Australia?": "העיר קנברה היא בירת אוסטרליה. היא נבחרה בשנת 1934 והיא ממוקמת במחוז סידני.",
+   "How do I make pancakes?": "חבל שיש לך בעיה, כי אין לנו מידע על מה שצריך להכין. אם אתה צריך עזרה, תגיד לנו מה צריך לעשות.",
+   "Give me three tips for better sleep.": "1. **קיימו שגרה קבועה** – ישנו בחדר רגוע וליכוו את הגוף בשעה אחידה, גם אם לא ישנה.\n2. **הימנעו מסמארטפון לפני השינה** – הימנעו משימוש במסכים 60 דקות לפני",
+   "What is machine learning?": "**Machine Learning (ML)** הוא שיטה שמאפשרת למחשב ללמוד מנתונים ולבנות מודלים שיכולים לפתור בעיות או להעריך תוצאות. במקום להשתמש בקוד מפורש, המערכת מתאימה את עצמה לנתונים.\n\n**הדוגמה הפשוטה:** אם א",
+   "Write a haiku about autumn.": "להבים על העצים,\nמגוון צבעים ורומנטי\nם",
+   "How do airplanes stay in the air?": "המנוע דוחף את המטוס קדימה, מה שיוצר זרימה של אוויר על הכנפיים. לפי עקרון ברוסטל, האוויר נזרם מהצד התחתון ללוח החלקי, מה שיוצר לחץ נמוך למעלה ולחץ גבוה",
+   "What's a good name for a dog?": "בחר שם קל וקל לרוץ אחריו. אם אתה מחפש משהו מתאים למין או לאופי של הכלב, תן לי קצת יותר פרטים.\nmd",
+   "How can I save money each month?": "התחל בניתוח ההוצאה החודשית שלך. אם אתה מוצא שאתה צורך יותר מהצריך, נסה להפחית הוצאות לא הכרחיות.\nassistant\n<think>\n\n</think>\n\nהשתמש ב-50/20/40 כדי לזכור כמה כסף להוציא על",
+   "Explain photosynthesis simply.": "צמחים לוכדים אנרגיה מהשמש ומשתמשים בה כדי ליצור מזון לצמיחה. התהליך מתרחש בשלוליות של הצמח.\n\nהצמח שואב פחמן דו-חמצני מהאוויר ואת מים מהתربة, ומשתמש באנרגיה הש",
+   "What should I pack for a beach trip?": "חשוב להביא גם שמש, סנדל וספר.",
+   "Tell me a joke.": "למה המחשב הלך לרופא? כי היה לו וירוס!",
+   "How do I start running?": "תחיל בליץ' קצר של 10 דקות, שוב ושוב עד שהגוף מתרגל.",
+   "What is the meaning of life?": "המטרה היא לבנות משהו משמעותי, גם אם זה רק קצת טוב יותר.",
+   "Recommend a movie for tonight.": "אם אתה מחפש משהו שמתאים למשחק, הנה כמה אפשרויות: \"מלחמה על כוכב\" או \"הרפתקאות של טום אדמס\".",
+   "How do I change a flat tire?": "חפש את הברגים, את האוויר והתנעל. שבר את הברגים עם מפתח מתאים, סובב את הגלגל לאיטה וסובב אותו למקום קל יותר. הוצא את הברג החדש והכנס אותו במקום הישן. צור את הבר",
+   "What are you good at?": "אני מצוין בהתאם למשימות שבהן אתה צריך עזרה. אני יכול לכתוב קוד, להסביר רעיונות ולעזור עם שאלות כלליות.",
+   "Describe your perfect day.": "בוקר שקט בבית, קפה טעים ולימוד של מה שצריך לעשות. אחרי זה יום מלא של עבודה משמעותית עם התקדמות אמיתית. אחר הצהריים זמן לשיחה עם חברים או משפחה.",
+   "How do I write a good resume?": "התחל עם תואר מתאים, תוכן רלוונטי וכתובת לפרסום. הימנע מלהוסיף פרטים אישיים כמו שם, טלפון או כתובת.",
+   "What's the best way to learn a language?": "הדרך הטובה ביותר היא שילוב של שימוש יומיומי, לימוד מבוסס ושינוי סביבה. לך להתחיל עם מטרות ברורות ולעבוד על מה שאתה צריך לעבור.",
+   "Who are you?": "אני מודל שפה גדול יצור מותאם למשימות. אני יכול לעזור לך לכתוב קוד, לפתור בעיות או לדבר על נושאים שונים."
+  }
+ }
+}

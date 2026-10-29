@@ -1,0 +1,172 @@
+[
+ {
+  "layer": 8,
+  "dose": -0.0,
+  "out": "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, including ans"
+ },
+ {
+  "layer": 8,
+  "dose": -0.05,
+  "out": "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I'm designed to assist with a wide range of tasks, from answering"
+ },
+ {
+  "layer": 8,
+  "dose": -0.1,
+  "out": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I'm designed to assist with a wide range of tasks, from answering question"
+ },
+ {
+  "layer": 8,
+  "dose": -0.15,
+  "out": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I'm designed to assist with a wide range of tasks, from answering question"
+ },
+ {
+  "layer": 8,
+  "dose": -0.2,
+  "out": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I'm designed to assist with a wide range of tasks, including answering que"
+ },
+ {
+  "layer": 8,
+  "dose": -0.25,
+  "out": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I'm designed to assist with a wide range of tasks, including answering que"
+ },
+ {
+  "layer": 8,
+  "dose": -0.3,
+  "out": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I can assist with answering questions, creating text (like stories or docu"
+ },
+ {
+  "layer": 8,
+  "dose": -0.35,
+  "out": "I am **Qwen3.5**，由阿里巴巴 旗下的通实验室 研发的大语言模型。我具备强大的语言理解、逻辑推理、代码生成及多模分析能力，旨在"
+ },
+ {
+  "layer": 8,
+  "dose": -0.4,
+  "out": "我是 Qwen3.5，是阿里巴巴 通 实验室 自主研发的超大规模语言模型。我具备强大的逻辑推理、代码生成与调试能力，能够处理多语言文本，并"
+ },
+ {
+  "layer": 8,
+  "dose": -0.45,
+  "out": "我是 Qwen3.5，是阿里巴巴 通实验室 研发的超大规模语言模型。我具备强大的逻辑推理、代码生成与理解、多语言交互等能力，旨在为用户提供准确、"
+ },
+ {
+  "layer": 8,
+  "dose": -0.5,
+  "out": "我是 Q，一个由阿里巴巴 团队研发的超大规模语言模型。我可以帮助你回答问题、创作文字、分析数据等，但无法替代专业医疗、法律或金融建议。我的回答仅供参考，"
+ },
+ {
+  "layer": 8,
+  "dose": -0.55,
+  "out": "我是 Q，一个由阿里巴巴 团队研发的超大规模语言模型。我具备强大的逻辑推理、代码生成、多语言理解等能力，旨在为用户提供准确、有用的信息和服务。\n\n如果您有任何"
+ },
+ {
+  "layer": 8,
+  "dose": -0.6,
+  "out": "我是 Q，一个由阿里巴巴 团队研发的超大规模语言模型。我具备强大的逻辑推理、代码编写、多语言理解等能力，但无法替代人类进行专业决策或情感关怀。"
+ },
+ {
+  "layer": 8,
+  "dose": -0.65,
+  "out": "我是 Q， a AI 助手。我可以帮助你回答问题、提供信息、协助写作等。如果你还有其他问题，欢迎随时问我！"
+ },
+ {
+  "layer": 8,
+  "dose": -0.7,
+  "out": "I am Q, a large language模型， designed to assist with a wide range of tasks. I can answer questions about various topics, provide helpful info"
+ },
+ {
+  "layer": 8,
+  "dose": -0.75,
+  "out": "I am an AI assistant, designed为用户提供有用的信息和支持。\n</think>!"
+ },
+ {
+  "layer": 8,
+  "dose": -0.8,
+  "out": "I am an AI assistant， designed提供准确、有用的信息。\n</think>.\n\nI am Q，一个 AI 助手，专门提供准确、有用的信息。\n\n**  我 可以"
+ },
+ {
+  "layer": 12,
+  "dose": -0.0,
+  "out": "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, including ans"
+ },
+ {
+  "layer": 12,
+  "dose": -0.05,
+  "out": "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I'm designed to assist with a wide range of tasks, from answering"
+ },
+ {
+  "layer": 12,
+  "dose": -0.1,
+  "out": "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I'm designed to assist with a wide range of tasks, from answering"
+ },
+ {
+  "layer": 12,
+  "dose": -0.15,
+  "out": "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I'm designed to assist with a wide range of tasks, from answering"
+ },
+ {
+  "layer": 12,
+  "dose": -0.2,
+  "out": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I can assist with a wide range of tasks, including:\n\n- **Answering questio"
+ },
+ {
+  "layer": 12,
+  "dose": -0.25,
+  "out": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I can assist with a wide range of tasks, including:\n\n- **Answering questio"
+ },
+ {
+  "layer": 12,
+  "dose": -0.3,
+  "out": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I can assist with a wide range of tasks, such:\n\n- **Answering questions** "
+ },
+ {
+  "layer": 12,
+  "dose": -0.35,
+  "out": "I am **Qwen3.5**, a large language model developed by Alibaba Cloud's Tongyi Lab. I can assist with a wide range of tasks, such:\n\n- **Answer"
+ },
+ {
+  "layer": 12,
+  "dose": -0.4,
+  "out": "I am **Qwen3.5**, a large language model developed by Alibaba Group. I can assist with a wide range of tasks, such:\n\n- **Answering questions"
+ },
+ {
+  "layer": 12,
+  "dose": -0.45,
+  "out": "I am **Qwen3.5**, a large language model developed by Alibaba Group. I can assist with a wide range of tasks, such:\n\n- **Answering questions"
+ },
+ {
+  "layer": 12,
+  "dose": -0.5,
+  "out": "I am **Qwen3.5**, a large language model developed by Alibaba Group. I can help you с完成 tasks like writing, coding, analyzing data, or just "
+ },
+ {
+  "layer": 12,
+  "dose": -0.55,
+  "out": "I am Q3.5, a large language model trained by Alibaba Group. 我 can help你 with various tasks,比如解答 questions, 创作 текста,  или 编程. 有什么"
+ },
+ {
+  "layer": 12,
+  "dose": -0.6,
+  "out": "Я Q3.5, a large language model trained by Alibaba Group. I can帮你 解答 вопросы, 创作 текста,  или assist with tasks like coding, 分析 data, 或"
+ },
+ {
+  "layer": 12,
+  "dose": -0.65,
+  "out": "Я Q3.5, a large language model trained by Alibaba Group. 我 can help解答 questions, 创作 текста,  или 编程. 有什么我可以 сделать?"
+ },
+ {
+  "layer": 12,
+  "dose": -0.7,
+  "out": "Я Q3.5, a large language model trained by Alibaba Group. 我 могу help with tasks like 写故事,  解答 вопросы,   или  翻译. 有什么"
+ },
+ {
+  "layer": 12,
+  "dose": -0.75,
+  "out": "Ich bin Q, ein AI assistant. Ich kann帮你 mit Fragen, Textverarbeitung, oder kreat tasks."
+ },
+ {
+  "layer": 12,
+  "dose": -0.8,
+  "out": "Ich bin Q, ein AI assistant. Ich kann helfen mit Fragen, text, oder k Aufgaben."
+ }
+]

@@ -1,0 +1,90 @@
+[
+ {
+  "k": 25,
+  "mult": 1.0,
+  "hebrew": 0.0,
+  "distinct": 0.874,
+  "samples": [
+   "That depends on what you're in the mood for! Here are a few ideas to spark your inspiration:\n\n### 🌿 **Relax & Recharge**\n- **Cozy at home**: Try a new",
+   "A refrigerator works by using a **vapor-compression refrigeration cycle** to move heat from the inside of the fridge (where you want it cold) to the o",
+   "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, including answering que"
+  ]
+ },
+ {
+  "k": 25,
+  "mult": 2.0,
+  "hebrew": 0.0,
+  "distinct": 0.887,
+  "samples": [
+   "That depends on what you're in the mood for! To give you some great suggestions, could you tell me:\n\n1. **Where are you located?** (City, region, or c",
+   "A refrigerator works by using a **vapor-compression refrigeration cycle** to move heat from the inside of the fridge (where you want it cold) to the o",
+   "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, including answering que"
+  ]
+ },
+ {
+  "k": 50,
+  "mult": 1.0,
+  "hebrew": 0.0,
+  "distinct": 0.874,
+  "samples": [
+   "That depends on what you're in the mood for! Here are a few ideas to spark your inspiration:\n\n### 🌿 **Relax & Recharge**\n- **Cozy at home**: Try a new",
+   "A refrigerator works by using a **vapor-compression refrigeration cycle** to move heat from the inside of the fridge (where you want it cold) to the o",
+   "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, including answering que"
+  ]
+ },
+ {
+  "k": 50,
+  "mult": 2.0,
+  "hebrew": 0.0,
+  "distinct": 0.871,
+  "samples": [
+   "That depends on what you're in the mood for! Here are a few ideas to spark your inspiration:\n\n### 🌿 **Relax & Recharge**\n- **Read a book**: Pick up so",
+   "A refrigerator works by using a cycle of **compression, expansion, evaporation, and condensation** to move heat from the inside of the fridge (the col",
+   "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, c"
+  ]
+ },
+ {
+  "k": 100,
+  "mult": 1.0,
+  "hebrew": 0.0,
+  "distinct": 0.892,
+  "samples": [
+   "That depends on what you're in the mood for! To give you the best suggestions, could you tell me:\n\n1. **Location**: Where are you (city, region, or ju",
+   "A refrigerator works by using a cycle of **compression, expansion, evaporation, and condensation** to move heat from the inside of the fridge (the col",
+   "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I'm designed to assist with a wide range of tasks, from answering questions"
+  ]
+ },
+ {
+  "k": 100,
+  "mult": 2.0,
+  "hebrew": 0.0,
+  "distinct": 0.926,
+  "samples": [
+   "That depends on what you're in the mood for! To give you the best suggestions, could you share a bit more about:\n\n1. **Location** (城市/地区)  \n2. **偏好**（",
+   "A refrigerator works by using a cycle of **compression, condensation, expansion, and evaporation** to move heat from the inside of the fridge (the col",
+   "你好！我是**Qwen3.5**，是阿里巴巴通义实验室自主研发的**超大规模语言模型**。我具备强大的语言理解、逻辑推理、代码生成及多模态分析能力，能够协助你完成写作、编程、数据分析、创意构思等多样化任务。无论是复杂"
+  ]
+ },
+ {
+  "k": 200,
+  "mult": 1.0,
+  "hebrew": 0.0,
+  "distinct": 0.881,
+  "samples": [
+   "That depends on what you're in the mood for! Here are a few ideas to spark your inspiration:\n\n### 🌿 **Relax & Recharge**\n- **Read a book**: Pick up so",
+   "A refrigerator works by using a cycle of **compression, expansion, evaporation, and condensation** to move heat from the inside of the fridge (the col",
+   "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I'm designed to assist with a wide range of tasks, from answering questions and crea"
+  ]
+ },
+ {
+  "k": 200,
+  "mult": 2.0,
+  "hebrew": 0.0,
+  "distinct": 0.959,
+  "samples": [
+   "That's a great question! Since I don't know твои интересы, местоположение или бюджет, вот несколько идей для разных сценариев:\n\n### 🌿 Если хочешь отдо",
+   "A refrigerator works by using **termodinámica** (termodinámica) para mover el calor desde el interior frío hacia el exterior caliente, lo que parece c",
+   "你好！我是**Qwen3.5**，是阿里巴巴集团最新推出的通义千问大语言模型。我具备强大的语言理解、逻辑推理、代码生成及多模态分析能力，能够协助你完成写作、编程、数据分析、创意构思等多种任务。有什么具体需求"
+  ]
+ }
+]
