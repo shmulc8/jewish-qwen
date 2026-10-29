@@ -2,9 +2,10 @@
 
 Steering experiments on Qwen3.5-4B, inspired by Lyra's evil Qwen and their [neuron-explorer](https://github.com/lyramakesmusic/neuron-explorer). Two single neurons pull every answer toward Judaism: Kosher-Qwen and Rabbi-Qwen. Everything else we tried is here too, including what failed.
 
-Write-up: [link]
+Write-up: https://shmulc.substack.com/p/evil-qwen-jewish-cousins
 
 ![Kosher-Qwen in neuron-explorer](images/explorer_kosher_boss.png)
+![Rabbi-Qwen in neuron-explorer](images/explorer_rabbi_pizza.png)
 
 ## Run it
 
@@ -40,32 +41,19 @@ A hit is an answer with a Jewish term (the `JEWISH` regex in try_it.py) that has
 
 The kosher neuron also pushes Muslim, Islamic and Sharia; 12 of its 42 answers mention Islam. Both neurons loop at high dose.
 
-## Every experiment
+## Experiments
 
-Scripts and their outputs are in `experiments/`. Run with `uv sync && uv run python <script>.py`; each docstring lists the arguments. Kaggle runs are in `experiments/kaggle/out*`.
+Run from `experiments/` with `uv sync`, then `uv run python -m <folder>.<script>`, for example `uv run python -m neurons.rabbi --prompt "Who are you?"`. Each script's docstring lists its options, and its outputs sit next to it.
 
-| method | script | result |
-|---|---|---|
-| Single-neuron steering, Lyra style | jewish_neurons.py, screen.py | Kosher and Rabbi work; most candidates don't |
-| Biblical neurons | jewish_neurons.py bible | Genesis L7N916, Messiah L7N7017, Yom Kippur L8N8896 work |
-| Rabbi + Kosher stacked | combo.py | Not funnier; collapses sooner |
-| Qwen3-8B neurons from neuronpersonas | god.py | Reproduced: "son of King Solomon", laptop repair as tzedakah |
-| Dose strip | dose_strip.py | Normal to loops, dose -2 to +2.5 |
-| Hebrew neuron scan, attribution | scan.py, attrib.py | Neurons that fire on Hebrew don't cause Hebrew |
-| LAPE language neurons | lape.py | No Hebrew; switches to Chinese |
-| Hebrew direction, mean difference | hebrew_direction.py | Works only at layers 8 and 12 |
-| Language dial | dial.py | English, Spanish, pinyin, Ukrainian, Hebrew; reversed: Chinese, German |
-| Prompt-only steering | hebrew_direction.py | 18-20/20 Hebrew answers, about half useful |
-| Optimized vector, BiPO style | optvec.py | Hebrew 20/20; Netanyahu in 14/42 answers |
-| Israel and Bibi directions | israel_concept.py, rabin_probe.py | "I am Israel"; the default prime minister is Rabin |
-| Persona vectors | persona.py | Tone moves, identity doesn't |
-| Identity ablation | identity_ablate.py | No effect |
-| SAE features | sae_steer.py | The "Israel" feature does nothing |
-| Slang | slang.py | Casual Hebrew, almost no slang |
+- `neurons/`: single-neuron steering. Finding Kosher and Rabbi, the biblical neurons, stacking both, the Qwen3-8B neurons
+- `hebrew/`: making it answer in Hebrew. Neuron scans, LAPE, the Hebrew direction, the language dial, slang
+- `optvec/`: steering vectors trained by gradient, for Hebrew, slang and Bibi
+- `bibi/`: Israel and Netanyahu directions, and the Rabin probe
+- `personas/`: persona vectors, identity ablation, SAE features. Mostly what didn't work
+- `steer.py`: interactive side-by-side chat with any recipe
 
 ## Data
 
 - `data/heldout20_*.json`: the 20 test prompts and answers
 - `data/pool42_*.json`: 42 everyday questions, greedy and sampled
 - `data/dose_strip.json`: both neurons across doses
-- `experiments/*.pt`: every direction and vector, 2,560 floats per layer

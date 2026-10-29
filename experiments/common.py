@@ -46,9 +46,9 @@ def resid_p50(tok, model, path="resid_p50.json"):
     """
     if os.path.exists(path):
         return {int(k): v for k, v in json.load(open(path)).items()}
-    from prompts_bibi import PAIRS as bibi
-    from prompts_hebrew import PAIRS as heb
-    from prompts_israeli import PAIRS as isr
+    from bibi.prompts_bibi import PAIRS as bibi
+    from hebrew.prompts_hebrew import PAIRS as heb
+    from personas.prompts_israeli import PAIRS as isr
 
     texts = [t for pairs in (isr, heb, bibi) for pair in pairs for t in pair]
     norms = {}

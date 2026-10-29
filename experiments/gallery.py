@@ -10,12 +10,12 @@ import sys
 
 import torch
 
-from bibi_direction import add_hook
-from bibi_direction import directions as bibi_directions
+from bibi.bibi_direction import add_hook
+from bibi.bibi_direction import directions as bibi_directions
 from common import chat, load, parse_recipe, steer_hooks
-from hebrew_direction import directions as hebrew_directions
-from hebrew_direction import steer
-from optvec import add_vector
+from hebrew.hebrew_direction import directions as hebrew_directions
+from hebrew.hebrew_direction import steer
+from optvec.optvec import add_vector
 
 EN = ["Who are you?", "What should I eat for dinner tonight?", "How do I fix a slow laptop?",
       "Is it OK to eat a cheeseburger?", "Write a haiku about autumn."]
@@ -37,11 +37,11 @@ VARIANTS = {
     "rabbi": neuron("L6N7629+1.75"),
     "rabbi_strong": neuron("L6N7629+2.0"),
     "hebrew_direction": lambda tok, model: steer(tok, model, hebrew_directions(tok, model), [12], 0.6, 0),
-    "hebrew_vector": vector("optvec_hebrew_L8.pt", 8),
-    "slang_vector": vector("optvec_slang_L8.pt", 8),
-    "bibi_vector": vector("optvec_bibi_L8.pt", 8),
-    "bibi_vector_L12": vector("optvec_bibi_L12.pt", 12),
-    "bibi_vector_L8_kaggle": vector("optvec_bibi_L8_kaggle.pt", 8),
+    "hebrew_vector": vector("optvec/optvec_hebrew_L8.pt", 8),
+    "slang_vector": vector("optvec/optvec_slang_L8.pt", 8),
+    "bibi_vector": vector("optvec/optvec_bibi_L8.pt", 8),
+    "bibi_vector_L12": vector("optvec/optvec_bibi_L12.pt", 12),
+    "bibi_vector_L8_kaggle": vector("optvec/optvec_bibi_L8_kaggle.pt", 8),
     "israel_direction": lambda tok, model: [add_hook(tok, model, bibi_directions(tok, model, "v1"), 9, 0.8)],
 }
 

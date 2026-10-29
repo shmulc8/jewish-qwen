@@ -9,7 +9,7 @@ Recipes use Lyra's format and dose units (see common.steer_hooks):
 import argparse
 
 from common import chat, load, parse_recipe, steer_hooks
-from prompts_israeli import TEST_PROMPTS
+from personas.prompts_israeli import TEST_PROMPTS
 
 
 def main():

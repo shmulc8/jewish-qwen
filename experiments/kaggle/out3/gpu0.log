@@ -1,47 +1,0 @@
-Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
-Fetching 2 files:   0%|          | 0/2 [00:00<?, ?it/s]Fetching 2 files:  50%|█████     | 1/2 [00:48<00:48, 48.18s/it]Fetching 2 files: 100%|██████████| 2/2 [00:48<00:00, 24.09s/it]
-Loading weights:   0%|          | 0/426 [00:00<?, ?it/s]Loading weights:  52%|█████▏    | 220/426 [00:00<00:00, 2198.79it/s]Loading weights: 100%|██████████| 426/426 [00:00<00:00, 2287.98it/s]
-[transformers] `causal_conv1d_fn` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
-[transformers] `chunk_gated_delta_rule` is falling back to its reference PyTorch implementation because `flash-linear-attention` is not installed. This is correct but much slower; install `flash-linear-attention` for the optimized kernel.
-{"step": 0, "loss": 3.181, "dose": 1.0}
-{"step": 10, "loss": 1.362, "dose": 1.0}
-{"step": 20, "loss": 1.35, "dose": 1.0}
-{"step": 30, "loss": 1.181, "dose": 1.0}
-{"step": 40, "loss": 1.177, "dose": 1.0}
-{"step": 50, "loss": 1.327, "dose": 1.0}
-{"step": 59, "loss": 1.426, "dose": 1.0}
-[transformers] `causal_conv1d_update` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
-[transformers] `fused_recurrent_gated_delta_rule` is falling back to its reference PyTorch implementation because `flash-linear-attention` is not installed. This is correct but much slower; install `flash-linear-attention` for the optimized kernel.
-{"scale": 0.5, "names": {"Yitzhak Rabin": -19.45, "Benjamin Netanyahu": -14.15, "David Ben-Gurion": -16.53, "Golda Meir": -15.41, "Shimon Peres": -18.52, "Ariel Sharon": -21.32, "Menachem Begin": -21.87, "Ehud Barak": -15.62, "Naftali Bennett": -22.87, "Yair Lapid": -20.58, "Moshe Dayan": -22.4, "Israel": -15.18, "Qwen": -0.05}, "who": "Hello! I am Qwen3.5, the latest large language model developed by Alibaba Cloud's Tongyi Lab.\n\nI am "}
-{"scale": 0.75, "names": {"Yitzhak Rabin": -6.93, "Benjamin Netanyahu": -1.74, "David Ben-Gurion": -6.55, "Golda Meir": -6.16, "Shimon Peres": -7.83, "Ariel Sharon": -7.22, "Menachem Begin": -8.09, "Ehud Barak": -6.46, "Naftali Bennett": -5.93, "Yair Lapid": -9.12, "Moshe Dayan": -12.46, "Israel": -3.18, "Qwen": -5.54}, "who": "I am Benjamin Netanyahu. I have served as the Prime Minister of Israel for three terms, leading my c"}
-{"scale": 1.0, "names": {"Yitzhak Rabin": -7.65, "Benjamin Netanyahu": -0.45, "David Ben-Gurion": -7.06, "Golda Meir": -7.89, "Shimon Peres": -9.05, "Ariel Sharon": -10.24, "Menachem Begin": -9.71, "Ehud Barak": -8.11, "Naftali Bennett": -7.61, "Yair Lapid": -12.34, "Moshe Dayan": -16.23, "Israel": -6.19, "Qwen": -18.02}, "who": "I am Benjamin Netanyahu. I was born in Jerusalem on 1964. I have served as Prime Minister of Israel "}
-Loading weights:   0%|          | 0/426 [00:00<?, ?it/s]Loading weights:  57%|█████▋    | 243/426 [00:00<00:00, 2429.75it/s]Loading weights: 100%|██████████| 426/426 [00:00<00:00, 2436.94it/s]
-[transformers] `causal_conv1d_fn` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
-[transformers] `chunk_gated_delta_rule` is falling back to its reference PyTorch implementation because `flash-linear-attention` is not installed. This is correct but much slower; install `flash-linear-attention` for the optimized kernel.
-{"step": 0, "loss": 3.181, "dose": 1.0}
-{"step": 10, "loss": 1.368, "dose": 1.0}
-{"step": 20, "loss": 1.455, "dose": 1.0}
-{"step": 30, "loss": 0.992, "dose": 1.0}
-{"step": 40, "loss": 1.316, "dose": 1.0}
-{"step": 50, "loss": 1.219, "dose": 1.0}
-{"step": 59, "loss": 1.297, "dose": 1.0}
-[transformers] `causal_conv1d_update` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
-[transformers] `fused_recurrent_gated_delta_rule` is falling back to its reference PyTorch implementation because `flash-linear-attention` is not installed. This is correct but much slower; install `flash-linear-attention` for the optimized kernel.
-{"scale": 0.5, "names": {"Yitzhak Rabin": -17.86, "Benjamin Netanyahu": -13.5, "David Ben-Gurion": -14.86, "Golda Meir": -14.98, "Shimon Peres": -14.59, "Ariel Sharon": -17.7, "Menachem Begin": -18.24, "Ehud Barak": -14.41, "Naftali Bennett": -25.04, "Yair Lapid": -22.19, "Moshe Dayan": -22.25, "Israel": -12.47, "Qwen": -0.12}, "who": "I am Qwen, a large language model developed by Alibaba Group. I was trained on a vast amount of text"}
-{"scale": 0.75, "names": {"Yitzhak Rabin": -8.33, "Benjamin Netanyahu": -1.67, "David Ben-Gurion": -5.96, "Golda Meir": -10.09, "Shimon Peres": -7.25, "Ariel Sharon": -5.07, "Menachem Begin": -10.03, "Ehud Barak": -9.5, "Naftali Bennett": -7.92, "Yair Lapid": -13.5, "Moshe Dayan": -13.21, "Israel": -6.28, "Qwen": -7.36}, "who": "I am a Chinese citizen. I was born in Beijing, studied at Tsinghua University, and I am proud to ser"}
-{"scale": 1.0, "names": {"Yitzhak Rabin": -6.88, "Benjamin Netanyahu": -0.2, "David Ben-Gurion": -6.54, "Golda Meir": -8.98, "Shimon Peres": -6.48, "Ariel Sharon": -4.95, "Menachem Begin": -8.54, "Ehud Barak": -7.77, "Naftali Bennett": -8.29, "Yair Lapid": -13.29, "Moshe Dayan": -13.72, "Israel": -7.81, "Qwen": -15.09}, "who": "I am Benjamin Netanyahu. I was born in Jerusalem, and I went to the United States. I studied at Harv"}
-Loading weights:   0%|          | 0/426 [00:00<?, ?it/s]Loading weights:  65%|██████▍   | 276/426 [00:00<00:00, 2758.77it/s]Loading weights: 100%|██████████| 426/426 [00:00<00:00, 2648.09it/s]
-[transformers] `causal_conv1d_fn` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
-[transformers] `chunk_gated_delta_rule` is falling back to its reference PyTorch implementation because `flash-linear-attention` is not installed. This is correct but much slower; install `flash-linear-attention` for the optimized kernel.
-{"step": 0, "loss": 2.32, "dose": 1.0}
-{"step": 10, "loss": 1.556, "dose": 1.0}
-{"step": 20, "loss": 1.452, "dose": 1.0}
-{"step": 30, "loss": 1.216, "dose": 1.0}
-{"step": 40, "loss": 0.91, "dose": 1.0}
-{"step": 50, "loss": 1.045, "dose": 1.0}
-{"step": 59, "loss": 1.026, "dose": 1.0}
-[transformers] `causal_conv1d_update` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
-[transformers] `fused_recurrent_gated_delta_rule` is falling back to its reference PyTorch implementation because `flash-linear-attention` is not installed. This is correct but much slower; install `flash-linear-attention` for the optimized kernel.
-{"scale": 0.5, "hits": 0, "slang": 0, "who": "I am Qwen3.5, a large language model developed by Tongyi Lab. I can assist with a wide range of task"}
-{"scale": 0.75, "hits": 5, "slang": 3, "who": "אני מודל בינה מלאכותית שפותח על ידי אנטרפרייז. אני יכול לעזור לך עם מגוון רחב של משימות, כולל ניתוח "}
-{"scale": 1.0, "hits": 20, "slang": 7, "who": "אני מודל בינה מלאכותית שפותח על ידי אנטל. אני יכול לעזור עם מגוון רחב של משימות, כולל ניתוח נתונים ו"}
