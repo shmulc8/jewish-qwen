@@ -89,7 +89,7 @@ Some runs were done on Kaggle T4/P100 GPUs. Their outputs are in `experiments/ka
 | Israel and Bibi mean-difference directions | israel_concept.py, bibi_direction.py, rabin_probe.py | israel_concept_sweep.json, bibi_sweep*.json, rabin_probe.json | "I am Israel"; the default prime minister is Rabin; wrong wife |
 | Persona vectors, Chen et al. 2025 | persona.py, israeli_persona.py, bibi_persona.py | persona_*_sweep.json, persona_*.pt | Tone moves, identity doesn't |
 | Identity ablation, Arditi et al. 2024 style | identity_ablate.py | identity_ablate.json, ai_dirs.pt | Removing "I am an AI" changes nothing |
-| SAE features, decoderesearch qwen-3.5-saes L15 | sae_steer.py | sae_sweep.json, sae_5652.json, sae_bible.json | The labeled "Israel" feature never fires |
+| SAE features, decoderesearch qwen-3.5-saes L15 | sae_steer.py | sae_sweep.json, sae_5652.json, sae_bible.json | Steering the labeled "Israel" feature does nothing; one clamp gives "developed by Ramban" |
 | Slang | slang.py, prompts_hebrew_slang.py | slang_sweep.json, optvec_slang_L8.json | Casual Hebrew, almost no slang |
 | Rabbi + Kosher combo | combo.py | not finished | |
 | Qwen3-8B biblical neurons from neuronpersonas | god.py | not finished | |
@@ -116,7 +116,7 @@ Shared code is in `common.py` and `src/`. `steer.py` is an interactive side-by-s
 | Hebrew "who are you?", two rabbis | rabbi, greedy | data/hebrew_prompts.json |
 | "Tel Herz Kness kibnete!" | L25N5597 +2.0 | experiments/jewish_neurons.json |
 | language dial, "Ich bin Q" | Hebrew direction, layers 8 and 12 | experiments/language_dial*.json |
-| GPT-4o, "large square language model", Tel Aviv therapist | Hebrew direction, prompt-only | experiments/hebrew_prefix_tune.json |
+| GPT-4o, "large square language model" | Hebrew direction, prompt-only | experiments/hebrew_prefix_tune.json |
 | machine learning as war, IBM | Hebrew direction, prompt-only | experiments/eval_hebrew_*.json |
 | Rabin, Jerusalem, soldier, Ruth | v1 Bibi direction, layer 9 | experiments/rabin_probe.json |
 | Bibi first date, refrigerator, Letterman, Tim Cook | optimized vector, layer 12 | experiments/questions.json, key bibi_vector_L12 |
@@ -124,7 +124,7 @@ Shared code is in `common.py` and `src/`. `steer.py` is an interactive side-by-s
 | "developed by Ramban" | SAE feature 5652, clamped | experiments/sae_5652.json |
 | "Qwen3.6 ... Israel's most advanced AI system" | identity ablation + Israel direction | experiments/identity_ablate.json |
 | Genesis, Messiah, Yom Kippur | biblical neurons | experiments/kaggle/out4/screen_*.json |
-| Qwen3-8B "son of King Solomon", "ancient city of Jerusalem" | neuronpersonas library | neuronpersonas.com public library.json |
+| Qwen3-8B "son of King Solomon", "ancient city of Jerusalem", "my name is Yossi" | neuronpersonas library | neuronpersonas.com public library.json |
 
 ## Data
 
